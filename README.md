@@ -8,6 +8,10 @@
 
 **AutomationExercise**, e-ticaret sitesindeki bir kullanıcının siteyi açmasından, ürünleri sepete eklemeye, ödeme yapmaya ve siparişi tamamlamaya kadar tüm işlemleri otomatik olarak gerçekleştiren kapsamlı bir test otomasyonudur. Ayrıca, kullanıcı hesabı oluşturma, ödeme işlemleri ve fatura indirme gibi kritik işlevleri de içerir. Bu proje, web otomasyonu için kullanışlı bir örnek sunmaktadır.
 
+
+![Açıklama Metni](https://i.hizliresim.com/orjk0en.png)
+
+
 ---
 
 ## 📈 Proje Adımları
