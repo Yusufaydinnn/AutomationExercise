@@ -10,6 +10,14 @@
 
 
 ![Açıklama Metni](https://i.hizliresim.com/orjk0en.png)
+![Açıklama Metni](https://i.hizliresim.com/9harx5a.png)
+![Açıklama Metni](https://i.hizliresim.com/qyrym6o.png)
+![Açıklama Metni](https://i.hizliresim.com/cu75rby.png)
+![Açıklama Metni](https://i.hizliresim.com/kxxs617.png)
+
+
+
+
 
 
 ---
