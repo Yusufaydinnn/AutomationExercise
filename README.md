@@ -85,4 +85,4 @@ Proje, temel otomasyon adımlarını başarılı bir şekilde gerçekleştiriyor
 
 - **GitHub**: [https://github.com/Yusufaydinnn/AutomationExercise](https://github.com/Yusufaydinnn/AutomationExercise)
 - **LinkedIn**: [linkedin.com/in/yusufaydin](#)
-- **E-Posta**: [yusuf.aydin@example.com](#)
+- **E-Posta**: [yusufaydin523455@gmail.com](#)
